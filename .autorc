@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Zeltoria",
+  "repo": "container-dq2lnjg",
+  "name": "Zeltoria",
+  "email": "elistz21@gmail.com",
+}
